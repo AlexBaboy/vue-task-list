@@ -1,3 +1,7 @@
+тестовое задание на vuejs
+
+в проекте использованы следующие дополнительные библиотеки: vue-router, vuex, materialize.css
+
 # task-list
 
 ## Project setup
